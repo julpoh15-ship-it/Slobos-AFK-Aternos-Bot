@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "elistinkt.falix.gg",
-    "port": 44507,
+    "ip": "Eliasstinktsehrdolle.aternos.me",
+    "port": 48447,
     "version": "",
     "try-creative": false
   },
@@ -42,9 +42,9 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
